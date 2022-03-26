@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nuage</h1>
-<h3 align="center">A passionate developer from frenc</h3>
+<h3 align="center">A passionate developer from french</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nuageee&label=Profile%20views&color=0e75b6&style=flat" alt="nuageee" /> </p>
 
-- 🔭 I’m currently working on [Sublime bot](https://discord.gg/RT67en3Ypz)
+- 🔭 I’m currently working on [HelpMate](https://google.com)
 
 - 🌱 I’m currently learning **JavaScript, python, Flutter & dart**
 
